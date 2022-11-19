@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "rsy_connect",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

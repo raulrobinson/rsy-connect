@@ -1,0 +1,8 @@
+{
+  "name": "rsy_connect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cf570907"
+}
